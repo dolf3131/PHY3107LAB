@@ -1,5 +1,5 @@
-# 물리학실험B 분석 코드 모음 (Experimental Physics B Analysis Codes)
-
+# 물리학실험B-1 분석 코드 모음 (Experimental Physics B Analysis Codes)
+-1
 이 저장소는 물리학실험B(PHY3107)에서 수행하는 다양한 실험에 대해,  
 파이썬을 이용한 데이터 처리 및 시각화 과정을 정리한 코드 모음입니다.
 
@@ -20,10 +20,10 @@
 - 모든 코드는 교육 및 학습 목적이며, 실험 장비 또는 학과의 공식 자료가 아닙니다.
 
 
-# Experimental Physics B – Analysis Code Collection (PHY3107)
+# Experimental Physics B-1 – Analysis Code Collection (PHY3107)
 
 This repository contains Python code templates for analyzing experimental data  
-from various laboratory sessions in the Experimental Physics B course (PHY3107).
+from various laboratory sessions in the Experimental Physics B-1 course (PHY3107).
 
 It includes general-purpose scripts and Jupyter notebooks for peak detection, diffraction analysis, and visualization.  
 **No raw experimental data or official university manuals are included.**
